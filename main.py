@@ -116,5 +116,4 @@ async def main():
     async with first_device:
         await first_device.play_pause()
 
-
 asyncio.run(main())
