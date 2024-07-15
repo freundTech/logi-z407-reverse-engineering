@@ -1,7 +1,7 @@
 # Protocol
 
 The dial remote communicates with the speakers using Bluetooth Low Energy's (BLE) Generic Attribute Profile (GATT).
-The Speaker serves as the GATT server with the client serving as a GATT client.
+The speaker serves as the GATT server with the remote serving as a GATT client.
 
 ## Connection Establishment
 
